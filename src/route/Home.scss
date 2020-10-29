@@ -1,0 +1,19 @@
+body{
+  background-color: #1E1818;
+}
+
+*{
+  list-style: none;
+}
+
+.container{
+  margin: auto;
+   
+  .flex{
+    display: flex;
+    justify-content: space-around;
+    overflow:hidden;
+    flex-wrap: wrap;
+  }
+
+}
